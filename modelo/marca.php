@@ -1,0 +1,2 @@
+<?php
+ECHO ' clase marca ';
